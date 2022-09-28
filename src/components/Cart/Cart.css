@@ -1,0 +1,11 @@
+.cart{
+    position: sticky;
+    top: 0;
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 30px 20px;
+    height: 944px;
+}
+
+.cart-title{
+    text-align: center;
+}
