@@ -117,19 +117,6 @@
     "quantity": 0
   },
   {
-    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
-    "category": "Men's Sneaker",
-    "name": "NMD_R1 PRIMEBLUE SHOES",
-    "seller": "Addidas",
-    "price": 437,
-    "stock": 1,
-    "ratings": 4,
-    "ratingsCount": 565,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e03e7a2a9cb44dfac2bad6a00f95888_9366/NMD_R1_Primeblue_Shoes_White_GZ9261_01_standard.jpg",
-    "shipping": 36,
-    "quantity": 0
-  },
-  {
     "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
     "category": "Men's Pants",
     "name": "TIRO TRACK PANTS",
@@ -429,19 +416,6 @@
     "quantity": 0
   },
   {
-    "id": "a2615943-7eeb-4d6a-ab1b-78fb51ce39da",
-    "category": "Men's Sneaker",
-    "name": "CREATOR 365 TEE",
-    "seller": "Addidas",
-    "price": 34,
-    "stock": 20,
-    "ratings": 3,
-    "ratingsCount": 4727,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0af79283953e498480c6ac22015ec878_9366/Creator_365_Tee_Black_GL0465_21_model.jpg",
-    "shipping": 2,
-    "quantity": 0
-  },
-  {
     "id": "27cf3efa-7352-4889-85c4-44a4de2aa93a",
     "category": "Men's Sneaker",
     "name": "OWN THE RUN LONG SLEEVE TEE",
@@ -478,19 +452,6 @@
     "ratingsCount": 3343,
     "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c3f5445517340e8bc02ad8100ffd3f6_9366/Runner_Tee_Burgundy_H25050_21_model.jpg",
     "shipping": 48,
-    "quantity": 0
-  },
-  {
-    "id": "c6cb80a7-3542-4270-bd2b-920efd5f3f85",
-    "category": "Men's Sneaker",
-    "name": "V-DAY TEE (GENDER NEUTRAL)",
-    "seller": "Addidas",
-    "price": 18,
-    "stock": 2,
-    "ratings": 4,
-    "ratingsCount": 1590,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/abfc348baf3243289c4bada000d1238b_9366/V-Day_Tee_(Gender_Neutral)_Pink_HI6014_21_model.jpg",
-    "shipping": 13,
     "quantity": 0
   },
   {
