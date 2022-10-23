@@ -1,11 +1,28 @@
 .cart{
     position: sticky;
     top: 0;
-    background-color: rgba(255, 153, 0, 0.3);
+    background-color: #FEBD69;
     padding: 30px 20px;
     height: 944px;
 }
 
 .cart-title{
     text-align: center;
+}
+
+.btn-clear{
+    margin-top: 30px;
+    padding: 15px 0px;
+    width: 100%;
+    border: 0;
+    border-radius: 8px;
+    background-color: #EB5757;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.btn-clear:hover{
+    background-color: #e00000;
+    cursor: pointer;
 }
